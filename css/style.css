@@ -1092,7 +1092,7 @@ body.popup-show::after {
 }
 @media (min-width: 120em) {
   .page-main__block {
-    padding-bottom: 9.5625rem;
+    
   }
 }
 @media (min-width: 20em) and (max-width: 120em) {
