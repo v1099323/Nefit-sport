@@ -1057,8 +1057,8 @@ body.popup-show::after {
   }
 }
 .page-main__block {
-  max-width: 28.25rem;
   padding-bottom: 3.75rem;
+  max-width: 28.25rem;
 }
 @media (min-width: 120em) {
   .page-main__block {
@@ -1088,21 +1088,6 @@ body.popup-show::after {
 @media (max-width: 20em) {
   .page-main__block {
     padding-top: 10rem;
-  }
-}
-@media (min-width: 120em) {
-  .page-main__block {
-    
-  }
-}
-@media (min-width: 20em) and (max-width: 120em) {
-  .page-main__block {
-   
-  }
-}
-@media (max-width: 20em) {
-  .page-main__block {
-    padding-bottom: 3.75rem;
   }
 }
 .page-main__title {
