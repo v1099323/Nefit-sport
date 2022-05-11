@@ -1097,7 +1097,7 @@ body.popup-show::after {
 }
 @media (min-width: 20em) and (max-width: 120em) {
   .page-main__block {
-    padding-bottom: clamp( 3.75rem , 2.5875rem  +  5.8125vw , 9.5625rem );
+   
   }
 }
 @media (max-width: 20em) {
