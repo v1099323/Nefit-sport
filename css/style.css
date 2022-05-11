@@ -1049,6 +1049,7 @@ body.popup-show::after {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  min-height: 100vh;
 }
 @media (max-width: 47.99875em) {
   .page-main {
@@ -1057,6 +1058,7 @@ body.popup-show::after {
 }
 .page-main__block {
   max-width: 28.25rem;
+  padding-bottom: 3.75rem;
 }
 @media (min-width: 120em) {
   .page-main__block {
